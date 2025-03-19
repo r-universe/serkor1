@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SLmetrics"]
+	path = SLmetrics
+	url = https://github.com/serkor1/slmetrics
 [submodule "cryptoQuotes"]
 	path = cryptoQuotes
 	url = https://github.com/serkor1/cryptoquotes
